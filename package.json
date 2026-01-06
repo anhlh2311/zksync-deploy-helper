@@ -6,7 +6,7 @@
   "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anhlh-edsolabs/zksync-deploy-helper.git"
+    "url": "git+https://github.com/anhlh2311/zksync-deploy-helper.git"
   },
   "author": "Le Hoang Anh",
   "license": "MIT",
